@@ -14,4 +14,4 @@
   <li>CSS3</li>
 </ul>
 
-<strong>Website - </strong>
+<strong>Website - https://dutatiberiu.github.io/column-preview-card-component/</strong>
