@@ -4,10 +4,6 @@
   <h2>Frontend Mentor - 3-column preview card component solution</h2>
 <p1>This is a solution to the 3-column preview card component challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.</p1>
 
-<h2>Overview</h2>
-<p>This is day 2 from 100 days of coding.</p>
-
-
 <h2>Built with</h2>
 <ul>
   <li>HTML5</li>
